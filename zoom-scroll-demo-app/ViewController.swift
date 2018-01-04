@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  zoom-scroll-sample
+//  zoom-scroll-demo-app
 //
 //  Created by Tetsuo Yutani on 2018/01/04.
 //  Copyright © 2018 Tetsuo Yutani. All rights reserved.
